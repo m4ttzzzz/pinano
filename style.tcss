@@ -1,0 +1,4 @@
+TextArea {
+    outline: transparent;
+    background: transparent;
+}
